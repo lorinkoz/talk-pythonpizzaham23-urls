@@ -15,7 +15,7 @@ class: middle center
 - Organizer of Python Pizza Holguín 2020
 
 ]
-.right-column-33[![Myself](images/lorinkoz.png)]
+.right-column-33[![Myself](images/lorinkoz.jpg)]
 
 ---
 
