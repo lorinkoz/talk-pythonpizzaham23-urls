@@ -1,3 +1,3 @@
-# talk-pyladiesmun22-uris
+# talk-pythonpizzaham23-urls
 
-Talk description: https://www.meetup.com/pyladiesmunich/events/287634398/
+Talk description: https://hamburg.python.pizza/
