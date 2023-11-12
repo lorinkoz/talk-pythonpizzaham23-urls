@@ -19,7 +19,38 @@ class: middle center
 
 ---
 
-#### Where to find me?
+TODO - How does this make you feel?
+
+---
+
+TODO - Twitter poll
+
+---
+
+class: middle center
+
+# Who cares about URLs
+
+---
+
+TODO - Cool URIs don't change
+
+---
+
+TODO - We have to design URLs
+
+---
+
+TODO - Develop
+
+1. Inteligible
+2. Predictable
+3. Concise
+4. Consistent
+
+---
+
+## Where to find me?
 
 .left-column-66[
 
@@ -29,11 +60,19 @@ class: middle center
 | GitHub | [github.com/lorinkoz](https://github.com/lorinkoz) |
 | Email  | [lorinkoz@gmail.com](mailto:lorinkoz@gmail.com)    |
 
+<br/>
+
 .right[Slides are here 👉]
 .right[.small[(and you should never get a 404 from this link)]]
 ]
 
-.right-column-33[![Slides QR Code](images/slides-qr.png)]
+.right-column-33[
+
+<br/>
+
+![Slides QR Code](images/slides-qr.png)
+
+]
 
 ---
 
