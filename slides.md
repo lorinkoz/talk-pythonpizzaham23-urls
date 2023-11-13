@@ -10,43 +10,154 @@ class: middle center
 
 #### Lorenzo Peña
 
-- Backend Engineer at Alasco
 - 14 years of Python + Django
 - Organizer of Python Pizza Holguín 2020
+- Backend Engineer at Alasco
+
+![Alasco QR Code](images/qr-alasco.png)
 
 ]
+
 .right-column-33[![Myself](images/lorinkoz.jpg)]
 
 ---
 
-TODO - How does this make you feel?
+<br/>
+<br/>
 
----
+# How does this URL make you feel?
 
-TODO - Twitter poll
+![Sample URL](images/sample-url.png)
+
+--
+
+.large[.right[😶 😬 🙄 😑 🤨 😧]]
 
 ---
 
 class: middle center
 
-# Who cares about URLs
+![Poll conducted on X/Twitter](images/x-poll.png)
 
 ---
 
-TODO - Cool URIs don't change
+class: middle center
+
+# pizza:// .theme[.big[Who cares about URLs]] .py
 
 ---
 
-TODO - We have to design URLs
+<br/>
+
+.left-column-33[![Tim Berners-Lee](images/tim.png)]
+
+--
+
+.right-column-66[
+
+When you change a URI on your server, you can never completely tell who will have links to the old URI [...] They might have bookmarked your page. They might have scrawled the URI in the margin of a letter to a friend.
+
+.right[.theme[Cool URIs don't change, 1998]]
+
+]
+
+.right-column-66[.right[![Cool URIs don't change QR Code](images/qr-uris.png)]]
 
 ---
 
-TODO - Develop
+class: middle center
 
-1. Inteligible
-2. Predictable
-3. Concise
-4. Consistent
+# .big[design URLs]
+
+--
+
+name: design
+
+it's our job
+
+---
+
+class: middle center
+
+.large[.huge[🫠]]
+
+---
+
+## Five friends
+
+--
+
+> > > .code[.green[.big[302_FOUND]]]
+
+> > > .code[.green[.big[301_MOVED_PERMANENTLY]]]
+
+--
+
+> > > .code[.green[.big[307_TEMPORARY_REDIRECT]]]
+
+> > > .code[.green[.big[308_TEMPORARY_REDIRECT]]]
+
+--
+
+> > > .code[.green[.big[309_REPLACE_USER_BOOKMARKS]]]
+
+---
+
+## .strike[Five] Four friends
+
+> > > .code[.green[.big[302_FOUND]]]
+
+> > > .code[.green[.big[301_MOVED_PERMANENTLY]]]
+
+> > > .code[.green[.big[307_TEMPORARY_REDIRECT]]]
+
+> > > .code[.green[.big[308_TEMPORARY_REDIRECT]]]
+
+> > > .strike[.code[.green[.big[309_REPLACE_USER_BOOKMARKS]]]] 😢
+
+---
+
+template: design
+
+---
+
+## Inteligible
+
+- Make them readable
+- Make them memorable
+
+---
+
+## Predictable
+
+- Structureed, hierarchical
+- I should be able to guess-navigate your site by rewriting URLs
+
+---
+
+## Concise
+
+- Straight to the point
+- No redundancies
+- Do you really need all those query params?
+
+---
+
+## Consistent
+
+- Camels, snakes or kebaps... just pick one
+- Trailing slash or not... just pick one
+- .html .php .aspx or nothing... just pick one
+
+---
+
+class: middle center
+
+# .big[design URLs]
+
+--
+
+.green[77,8% of my followers will thank you!]
 
 ---
 
@@ -54,11 +165,11 @@ TODO - Develop
 
 .left-column-66[
 
-|        |                                                    |
-| ------ | -------------------------------------------------- |
-| X      | [@lorinkoz](https://x.com/lorinkoz)                |
-| GitHub | [github.com/lorinkoz](https://github.com/lorinkoz) |
-| Email  | [lorinkoz@gmail.com](mailto:lorinkoz@gmail.com)    |
+|           |                                                    |
+| --------- | -------------------------------------------------- |
+| X/Twitter | [@lorinkoz](https://x.com/lorinkoz)                |
+| GitHub    | [github.com/lorinkoz](https://github.com/lorinkoz) |
+| Email     | [lorinkoz@gmail.com](mailto:lorinkoz@gmail.com)    |
 
 <br/>
 
@@ -70,10 +181,6 @@ TODO - Develop
 
 <br/>
 
-![Slides QR Code](images/slides-qr.png)
+![Slides QR Code](images/qr-slides.png)
 
 ]
-
----
-
-template: title
