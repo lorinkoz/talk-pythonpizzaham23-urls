@@ -140,6 +140,10 @@ People will read them, some will even search them
 .box.what[/u/d/c/~q/page.html]
 .box.nice[/user/profile]
 
+???
+
+- Obfuscation by design: some valid use cases
+
 ---
 
 # Predictable
@@ -160,12 +164,26 @@ People should be able to guess-navigate your site by rewriting URLs
 
 --
 
-Straight to the point, no redundancies
+Straight to the point, no redundancy
 
 <br/>
 
 .box.what[/user/user-settings/security-settings]
 .box.nice[/user/settings/security]
+
+---
+
+# Complete
+
+--
+
+Every part must lead to somewhere, or at least redirect
+
+<br/>
+
+.box.nice[/user/settings/security]
+.box.look[/user/settings]
+.box.nice[/user]
 
 ---
 
@@ -186,13 +204,11 @@ Single language, single style
 
 --
 
-- Camels 🐪, snakes 🐍 or kebaps 🍖
-- Trailing slash/ or not
-- `index.html`, `index.php`, `page.aspx` or nothing
+If it's well designed, it will be beautiful
 
---
-
-### .theme[Just be consistent!]
+.box.nice[/this_style/is_beautiful/]
+.box.nice[/this-one/as-well]
+.box.nice[/style/isReallyNotThatImportant.html]
 
 ---
 
@@ -206,18 +222,16 @@ class: middle center
 
 ## Thank you!
 
-.left-column-66[
-
-|           |                                                    |
-| --------- | -------------------------------------------------- |
-| X/Twitter | [@lorinkoz](https://x.com/lorinkoz)                |
-| GitHub    | [github.com/lorinkoz](https://github.com/lorinkoz) |
-| Email     | [lorinkoz@gmail.com](mailto:lorinkoz@gmail.com)    |
-
 <br/>
 
+.left-column-66[
+
+| X/Twitter                                                       | GitHub                                                        |
+| --------------------------------------------------------------- | ------------------------------------------------------------- |
+| .center[![X/Twitter profile QR Code](images/qr-lorinkoz-x.png)] | .center[![GitHub profile QR Code](images/qr-lorinkoz-gh.png)] |
+
 .right[Slides are here 👉]
-.right.small[(and you should never get a 404 from this link)]
+.right.small[(and this link will hopefully not break)]
 ]
 
 .right-column-33[
